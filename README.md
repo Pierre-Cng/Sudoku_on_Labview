@@ -21,4 +21,7 @@ Here is a look of the game interface:
 * The one in red is a number entered by the player and a wrong guess.
 
 ## Block diagram:
+### State 0:
+Here is a look of the block diagram when the player change the value of one of the sudoku cases:
 
+![State 0](/IHM.PNG) 
