@@ -7,4 +7,4 @@ This game was implemented by following this model:
 
 ## Goal:
 Solving this puzzle:
-![Sudoku image](sudoku.png) 
+![Sudoku image](image/sudoku.png) 
