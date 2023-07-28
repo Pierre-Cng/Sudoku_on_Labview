@@ -7,8 +7,10 @@ This game was implemented by following this model:
 
 ## Goal:
 Solving this puzzle:
+
 ![Sudoku image](image/sudoku.png) 
 
 ## Interface (HIM):
 Here is a look of the game interface:
+
 ![HIM](image/IHM.PNG) 
