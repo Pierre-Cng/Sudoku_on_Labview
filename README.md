@@ -24,4 +24,4 @@ Here is a look of the game interface:
 ### State 0:
 Here is a look of the block diagram when the player change the value of one of the sudoku cases:
 
-![State 0](/IHM.PNG) 
+![State 0](image/state_0.PNG) 
