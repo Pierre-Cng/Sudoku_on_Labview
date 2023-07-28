@@ -11,4 +11,4 @@ Solving this puzzle:
 
 ## Interface (HIM):
 Here is a look of the game interface:
-![HIM](image/IHM.png) 
+![HIM](image/IHM.PNG) 
